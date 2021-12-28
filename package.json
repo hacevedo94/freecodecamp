@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Hansel L. García Acevedo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,7 +13,4 @@
 		"url": "https://idontknow/todo.git"
 	},
 	
-	"author": {
-		"author": "Hansel L. García Acevedo"
-	},
 }
