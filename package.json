@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 
-	"author": "Hansel l. García Acevedo",
+	"author": "Hansel L. García Acevedo",
 	 
 	"dependencies": {
 		"express": "^4.14.0"
