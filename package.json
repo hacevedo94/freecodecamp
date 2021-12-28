@@ -12,5 +12,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	
-	"author": "Hansel L. García Acevedo",
+	"author": {
+		"author": "Hansel L. García Acevedo"
+	},
 }
